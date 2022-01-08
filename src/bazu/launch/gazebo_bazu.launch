@@ -11,6 +11,6 @@
     
     <node name="JSP" pkg="joint_state_publisher" type="joint_state_publisher" output="screen"/>
     
-
+   <!-- Parameters for dynamic elements -->
 
 </launch>
