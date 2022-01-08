@@ -1,0 +1,18 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/reza/catkin_ws/devel/include/**",
+        "/opt/ros/noetic/include/**",
+        "/home/reza/catkin_ws/src/ros_essentials_cpp/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
